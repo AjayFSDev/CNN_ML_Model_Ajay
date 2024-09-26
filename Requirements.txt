@@ -1,0 +1,22 @@
+TOOLS:
+
+Python IDE v.3.12.6
+VS CODE editor
+GitHub
+Jupyter
+
+LIBRARIES:
+
+numpy==1.19.5
+torch==1.7.1+cu101
+pandas==1.1.5
+torchvision==0.8.2+cu101
+Pillow==8.1.0
+tensorflow
+pygments>=2.7.4
+markdown>=3.3
+matplotlib
+keras-tuner
+keras-cv
+tf_keras
+keras-nlp
