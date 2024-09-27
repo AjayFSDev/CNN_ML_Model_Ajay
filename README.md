@@ -174,7 +174,7 @@ You can visualize training performance over time using graphs that show how the 
 #### Classification report
 
 <p align="center">
-<image src="assets/classification_report.jpg">
+<image src="assets/classification_report.png">
 </p>
 
 #### Confusion matrix
